@@ -13,6 +13,6 @@ Caso já tenha o instalado por via CMD, como o meu caso, basta ir ao local no qu
 Se não tiver instalado ainda, aconselho o [Tutorial - Como instalar o node.js npm e o React](https://github.com/facebook/create-react-app).
 
 
-Para a executar o aplicativo em modo de desenvolvimento, é necessário executar os comandos integrados pelo CMD: npm start ou yarn start. Logo, abra em seu navegador https://localhost:3000.
+Para a executar o aplicativo em modo de desenvolvimento, é necessário executar os comandos integrados pelo CMD: npm start ou yarn start. Logo, abra em seu navegador https://localhost:3000 e começa a editar sua aplicação, no meu caso, utilizei o editor [Visual Studio Code](https://code.visualstudio.com/). As atualização durante a edição, ocorram em tempo real, considerando o fato de que essa aplicação não utiliza de internet para funcionar.
 
 
