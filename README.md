@@ -18,8 +18,17 @@ Para a executar o aplicativo em modo de desenvolvimento, é necessário executar
 
 Logo, abra em seu navegador https://localhost:3000 e começa a editar sua aplicação, no meu caso, utilizei o editor [Visual Studio Code](https://code.visualstudio.com/). As atualização durante a edição, ocorram em tempo real, considerando o fato de que essa aplicação não utiliza de internet para funcionar.
 
-### Conclusão do Projeto
+## Conclusão do Projeto
+- A prosposta era ter na Header a logo do SENAI, juntamente com o nome da escola;
+- No footer, minha identificação e email;
+- Já na HomePage eram necessários três card, onde cada um abordaria sobre um dos cursos FIC ministrados do Senai. 
+  
+O wireframe do projeto foi feito pelo [draw.io](https://app.diagrams.net/):
+![image](https://user-images.githubusercontent.com/72613980/111080594-edf7a200-84dd-11eb-8f6d-1226fdc8b7ad.png)
+
+
+O resultado final:
 ![image](https://user-images.githubusercontent.com/72613980/111080294-8f7df400-84dc-11eb-9584-069976a685a7.png)
-A prosposta era ter na Header a logo do SENAI, juntamente com o nome da escola. No footer, minha identificação e email. Já na HomePage eram necessários três card, onde cada um abordaria sobre um dos cursos FIC ministrados do Senai. 
+
 
 
