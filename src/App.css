@@ -1,0 +1,8 @@
+.App {
+   display: flex;
+   flex-direction: column;
+   justify-content: space-between;
+   height: 100vh;
+   background-image: url(http://4.bp.blogspot.com/-WdbL72t4pUI/TybTjGfABtI/AAAAAAAAAlI/6OL65tE-jIk/s1600/158094-3008x2000.jpg);
+   
+}
